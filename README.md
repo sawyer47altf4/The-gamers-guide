@@ -1,5 +1,6 @@
 # The-gamers-guide250x250
-## need to add credit : https://icons8.com/
+## TODO
+
 500x500
 iOS
 Android
