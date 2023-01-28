@@ -8,4 +8,7 @@ body { background-color: rgb(100, 100, 100)
   a.center-text {
     display: block;
   }
-
+  .cy-link {
+    color: rgb(3, 243, 183);
+  }
+  
