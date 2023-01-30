@@ -1,8 +1,4 @@
-# The-gamers-guide250x250
-## TODO
+# The-gamers-guide
+## https://sawyer47altf4.github.io/The-gamers-guide/index.html
+### TODO
 
-500x500
-iOS
-Android
-Custom size
-x 100
